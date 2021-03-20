@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shizuchanw
+- 👋 Hi, I’m Flora
 <!---- - 👀 I’m interested in ...--->
 - 🌱 I’m currently learning back-end web dev. When I have time I write my own projects and learn Japanese.
 <!---- 💞️ I’m looking to collaborate on ...--->
